@@ -35,24 +35,24 @@ GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
 $ git clone https://github.com/jockersir/jocker_v2
-$ cd chatt_bot
+$ cd jocker_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node chatt_bot.js
+$ node jocker_v2 .js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/ADIL0448/chatt_bot
-$ cd chatt_bot
+$ git clone https://github.com/jockersir/jocker_v2
+$ cd  jocker_v2
 $ npm i
-$ node chatt_bot.js
+$ node  jocker_v2.js 
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ADIL0448/chatt_bot">
+  <a href="httsp://github.com/jockersir/jocker_v2">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
